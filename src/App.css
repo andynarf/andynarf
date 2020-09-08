@@ -1,0 +1,30 @@
+.container{
+  position: relative;
+  /* height: 100vh;
+  width: 100vh; */
+  /* text-align: center */
+}
+
+#typing { 
+  position: absolute;
+  top:30%;
+  line-height: 90%;
+  font-size: 60px;
+  font-family: 'B612', sans-serif;
+  font-weight: 600;
+  width: 800px;
+  margin-left: 30% ;
+}
+
+#typing2 { 
+  position: absolute;
+  top:50%;
+  /* left: 50%; */
+  font-size: 20px;
+  font-family: 'B612', sans-serif;
+  color:rgb(219, 152, 162);
+  letter-spacing: 3.7px;
+  font-weight: 600;
+  width: 800px;
+  margin-left: 30% ;
+}
